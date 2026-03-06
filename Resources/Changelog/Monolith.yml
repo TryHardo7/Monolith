@@ -17925,3 +17925,10 @@ Entries:
   id: 1975
   time: '2026-03-06T00:45:37.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3173
+- author: Arcticular1
+  changes:
+    - type: Tweak
+      message: Vanyk's damage has been decreased due to oversight.
+  id: 1976
+  time: '2026-03-06T03:53:06.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3374
