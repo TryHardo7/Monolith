@@ -18029,3 +18029,14 @@ Entries:
   id: 1987
   time: '2026-03-08T16:20:28.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3387
+- author: tonotom1
+  changes:
+    - type: Fix
+      message: >-
+        Restored plate explosion damage mitigation after plate metabolism damage
+        mitigation fix. Barotrauma damage no longer mitigated. Fixed the system
+        firing excessively when unnecessary. Fixed false crit predictions when
+        lethal damage is mitigated.
+  id: 1988
+  time: '2026-03-08T16:25:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3190
