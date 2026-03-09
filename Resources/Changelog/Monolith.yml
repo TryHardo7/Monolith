@@ -18143,3 +18143,10 @@ Entries:
   id: 2000
   time: '2026-03-09T19:41:19.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3420
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Jaws of Life can now clip nails.
+  id: 2001
+  time: '2026-03-09T19:54:17.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3422
