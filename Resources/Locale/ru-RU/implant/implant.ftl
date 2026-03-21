@@ -40,7 +40,7 @@ deathrattle-implant-dead-message = Зафиксирована смерть { $us
 deathrattle-implant-critical-message = Жизненные показатели { $user }{ $specie ->
         [null] {""}
         *[default] {" "}({ $specie })
-    } критические, требуется немедленная помощь { $grid ->
+    } критические, требуется немедленная помощь на { $grid ->
         [null] {""}
         *[default] { $grid }{" "}
     }{ $position }.
