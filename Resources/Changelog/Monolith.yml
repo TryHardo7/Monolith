@@ -18748,3 +18748,10 @@ Entries:
   id: 2068
   time: '2026-03-23T03:42:15.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3536
+- author: Kiithnaras
+  changes:
+    - type: Tweak
+      message: Added roofing mask and emergency lighting to CDM Comet.
+  id: 2069
+  time: '2026-03-23T04:00:28.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3381
