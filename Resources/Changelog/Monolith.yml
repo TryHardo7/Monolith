@@ -18839,3 +18839,12 @@ Entries:
   id: 2079
   time: '2026-03-25T04:12:27.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3556
+- author: lopsidedmanboobs
+  changes:
+    - type: Remove
+      message: >-
+        You cannot force people to pay their own ransom during Piracy anymore.
+        View Conflict Rule 3.
+  id: 2080
+  time: '2026-03-25T05:49:54.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3558
