@@ -19714,3 +19714,10 @@ Entries:
   id: 2176
   time: '2026-04-13T14:40:01.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3761
+- author: Corrupt142
+  changes:
+    - type: Add
+      message: New SMG has appeared in the loadout menu! RS-2 Malandro
+  id: 2177
+  time: '2026-04-13T14:57:19.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3754
