@@ -19707,3 +19707,10 @@ Entries:
   id: 2175
   time: '2026-04-13T14:15:41.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3780
+- author: ToastEnjoyer
+  changes:
+    - type: Fix
+      message: Vox neck accessories no longer have random pixels floating above them.
+  id: 2176
+  time: '2026-04-13T14:40:01.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3761
