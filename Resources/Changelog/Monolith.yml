@@ -19768,3 +19768,12 @@ Entries:
   id: 2182
   time: '2026-04-13T15:45:38.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3713
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Anti Chimera spawncamp turrets can now be restored with a welder or
+        nanite applicator.
+  id: 2183
+  time: '2026-04-13T15:46:56.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3712
