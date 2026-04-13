@@ -19777,3 +19777,12 @@ Entries:
   id: 2183
   time: '2026-04-13T15:46:56.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3712
+- author: Ghost581X
+  changes:
+    - type: Tweak
+      message: >-
+        Camelot secured their military assembler and communication line with
+        extra bolts.
+  id: 2184
+  time: '2026-04-13T17:10:17.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3702
