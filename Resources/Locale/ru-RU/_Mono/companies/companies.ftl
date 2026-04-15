@@ -72,6 +72,9 @@ viper-group-description = Ранее каперская компания, упр
 cerberus-surplus-name = Церберус
 cerberus-surplus-provisions = "Церберус" - это теневая компания, происходящая ИЗ Династии Фаэтон. Из своей "подпольной" штаб-квартиры проводят различные операции в преступном мире на пользу Династии Фаэтона посредством торговли любыми незаконными веществами, оружием или оборудованием, которые они могут выменять или найти. Компания сохраняет своё самоуважение, поддерживая сильный и гостеприимный публичный имидж для потенциальных покупателей и деловых партнёров. "Церберус" будет иметь дело с любым, кто готов заключить сделку со змеёй.
 
+redsail-corsairs-name = Корсары Красного Паруса
+redsail-corsairs-description = The RedSail Corsairs, or RSC, are a dangerous and influential group of pirates and brigands, who are publicly known to engage in illegal and violent activities against civilians, officials, and military personnel alike. Their source of income and specialization is hijacking, cargo theft, hostage-taking, and armed robbery. They are openly marked by Colossus Central as a criminal organization. As a whole, the Corsairs function as a union between freebooting raiders of all walks of life who have sworn loyalty to each other.
+
 none-name = Нет
 tsf-name = КВП ТСФ
 pdv-name = Авангард Династии Фаэтон
