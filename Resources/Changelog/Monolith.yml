@@ -19894,3 +19894,12 @@ Entries:
   id: 2196
   time: '2026-04-15T20:16:00.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3792
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: CPRing now respects the unrevivable trait
+    - type: Fix
+      message: CPR revivals now notify the ghost they've been revived.
+  id: 2197
+  time: '2026-04-15T20:56:58.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3799
