@@ -302,9 +302,9 @@
   #  mindRoles:
   #  - MindRoleGhostRoleTeamAntagonist
   #- type: GhostTakeoverAvailable
-  #- type: ActionGun
-  #  action: ActionThrowPartyNade
-  #  gunProto: PartyNadeGun
+  - type: ActionGun
+    action: ActionThrowPartyNade
+    gunProto: PartyNadeGun
   # Exodus-Exp-Balance-end
 
 - type: entity
