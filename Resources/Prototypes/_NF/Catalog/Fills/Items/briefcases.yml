@@ -46,32 +46,32 @@
 - type: entity
   parent: SpaceCashExpedition
   id: SpaceCashExpeditionT3
-  name: credits (30,000) #SS220 exp balance
+  name: credits (30,000) # Exodus-Exp-Balance
   categories: [ HideSpawnMenu ]
   components:
   - type: SpawnItemsOnUse
     items:
       - id: SpaceCash20000
-      - id: SpaceCash10000 #SS220 exp balance
+      - id: SpaceCash10000 # Exodus-Exp-Balance
     sound:
       collection: storageRustle
   - type: StaticPrice # Require since you can still sell a ship that have it on it
-    price: 30000 #SS220 exp balance
+    price: 30000 # Exodus-Exp-Balance
 
 - type: entity
   parent: SpaceCashExpedition
   id: SpaceCashExpeditionT4
-  name: credits (60,000) #SS220 exp balance
+  name: credits (60,000) # Exodus-Exp-Balance
   categories: [ HideSpawnMenu ]
   components:
   - type: SpawnItemsOnUse
     items:
       - id: SpaceCash20000
-        amount: 3 #SS220 exp balance
+        amount: 3 # Exodus-Exp-Balance
     sound:
       collection: storageRustle
   - type: StaticPrice # Require since you can still sell a ship that have it on it
-    price: 60000 #SS220 exp balance
+    price: 60000 # Exodus-Exp-Balance
 
 - type: entity
   parent: SpaceCashExpedition
@@ -82,9 +82,9 @@
   - type: SpawnItemsOnUse
     items:
       - id: SpaceCash25000
-        amount: 4 #SS220 exp balance
-      - id: SpaceCash5000 #SS220 exp balance
+        amount: 4 # Exodus-Exp-Balance
+      - id: SpaceCash5000 # Exodus-Exp-Balance
     sound:
       collection: storageRustle
   - type: StaticPrice # Require since you can still sell a ship that have it on it
-    price: 105000 #SS220 exp balance
+    price: 105000 # Exodus-Exp-Balance

@@ -71,12 +71,12 @@
       prob: 0.7
     - id: SpawnDungeonLootPartsEngi
       prob: 0.7
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
     - id: SpawnLootTechDisksMercenariesT1
       prob: 0.1
     - id: SheetPlastitanium1
       prob: 0.5
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -140,12 +140,12 @@
       prob: 0.7
     - id: SpawnDungeonLootToolsAdvancedEngineering
       prob: 0.3
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
     - id: SpawnLootTechDisksMercenariesT1
       prob: 0.1
     - id: SheetPlastitanium1
       prob: 0.5
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -207,14 +207,14 @@
       prob: 0.7
     - id: SpawnDungeonLootToolsAdvancedEngineering
       prob: 0.3
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
     - id: SpawnLootTechDisksMercenariesT1
       prob: 0.2
     - id: SheetPlastitanium1
       prob: 1
     - id: SheetPlastitanium10
       prob: 0.1
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -273,14 +273,14 @@
       prob: 0.7
     - id: SpawnDungeonLootToolsAdvancedEngineering
       prob: 0.3
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
     - id: SpawnLootTechDisksMercenariesT1
       prob: 0.2
     - id: SheetPlastitanium1
       prob: 1
     - id: SheetPlastitanium10
       prob: 0.1
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -352,7 +352,7 @@
       prob: 0.5
     - id: SpawnDungeonLootToolsAdvancedEngineering
       prob: 0.4
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
     - id: SpawnLootTechDisksMercenariesT1
       prob: 0.2
     - id: SheetPlastitanium1
@@ -360,7 +360,7 @@
       prob: 1
     - id: SheetPlastitanium10
       prob: 0.2
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -436,7 +436,7 @@
       prob: 0.5
     - id: SpawnDungeonLootToolsAdvancedEngineering
       prob: 0.4
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
     - id: SpawnLootTechDisksMercenariesT1
       prob: 0.2
     - id: SheetPlastitanium1
@@ -444,7 +444,7 @@
       prob: 1
     - id: SheetPlastitanium10
       prob: 0.2
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -556,13 +556,13 @@
       prob: 0.7
     - id: SpawnDungeonLootVaultGuns
       prob: 0.4
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
     - id: SpawnLootTechDisksMercenariesT1
       prob: 1
     - id: SheetPlastitanium10
       prob: 1
     - id: SheetPlastitanium10
       prob: 0.5
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg

@@ -93,7 +93,7 @@
         prob: 0.5
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.4
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.2
       - id: SpawnLootTechDisksSyndicateT2
@@ -102,7 +102,7 @@
         prob: 0.2
       - id: Telecrystal1
         prob: 0.8
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -133,14 +133,14 @@
         prob: 0.5
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.4
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.2
       - id: Telecrystal5
         prob: 0.1
       - id: Telecrystal1
         prob: 1
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -169,7 +169,7 @@
         prob: 0.5
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.4
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.1
       - id: SpawnLootTechDisksSyndicateT2
@@ -178,7 +178,7 @@
         prob: 0.05
       - id: Telecrystal1
         prob: 0.5
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -206,12 +206,12 @@
         prob: 0.5
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.4
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.1
       - id: Telecrystal1
         prob: 1
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -243,14 +243,14 @@
         prob: 0.5
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.4
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.1
       - id: Telecrystal5
         prob: 0.1
       - id: Telecrystal1
         prob: 0.7
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -280,7 +280,7 @@
         prob: 0.5
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.4
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.2
       - id: SpawnLootTechDisksSyndicateT2
@@ -289,7 +289,7 @@
         prob: 0.1
       - id: Telecrystal1
         prob: 1
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -318,7 +318,7 @@
         prob: 0.5
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.4
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.2
       - id: SpawnLootTechDisksSyndicateT2
@@ -327,7 +327,7 @@
         prob: 0.1
       - id: Telecrystal1
         prob: 0.4
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -356,7 +356,7 @@
         prob: 0.5
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.4
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.2
       - id: SpawnLootTechDisksSyndicateT2
@@ -365,7 +365,7 @@
         prob: 0.2
       - id: Telecrystal1
         prob: 0.8
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -396,7 +396,7 @@
         prob: 0.7
       - id: SpawnDungeonLootVaultGuns
         prob: 0.4
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 1
       - id: SpawnLootTechDisksSyndicateT2
@@ -407,7 +407,7 @@
         prob: 0.2
       - id: VendingMachineSyndieContrabandFlatpack
         prob: 0.2
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -437,7 +437,7 @@
         prob: 0.7
       - id: SpawnDungeonLootVaultGuns
         prob: 0.4
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 1
       - id: SpawnLootTechDisksSyndicateT2
@@ -448,7 +448,7 @@
         prob: 0.1
       - id: VendingMachineSyndieContrabandFlatpack
         prob: 0.1
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -477,7 +477,7 @@
         prob: 0.7
       - id: SpawnDungeonLootVaultGuns
         prob: 0.4
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.5
       - id: SpawnLootTechDisksSyndicateT2
@@ -488,7 +488,7 @@
         prob: 0.2
       - id: VendingMachineSyndieContrabandFlatpack
         prob: 0.2
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -514,7 +514,7 @@
         prob: 0.7
       - id: SpawnDungeonLootVaultGuns
         prob: 0.4
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 1
       - id: SpawnLootTechDisksSyndicateT2
@@ -525,7 +525,7 @@
         prob: 0.2
       - id: VendingMachineSyndieContrabandFlatpack
         prob: 0.2
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -560,14 +560,14 @@
         prob: 0.4
       - id: WeaponRifleMR8C # mono
         prob: 0.05
-        #SS220 exp balance start
+        # Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.1
       - id: Telecrystal5
         prob: 0.1
       - id: Telecrystal1
         prob: 0.7
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -600,7 +600,7 @@
         prob: 0.4
       - id: WeaponRifleMR8C # mono
         prob: 0.01
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.2
       - id: SpawnLootTechDisksSyndicateT2
@@ -609,7 +609,7 @@
         prob: 0.2
       - id: Telecrystal1
         prob: 0.8
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -642,7 +642,7 @@
         prob: 0.5
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.4
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.2
       - id: SpawnLootTechDisksSyndicateT2
@@ -651,7 +651,7 @@
         prob: 0.3
       - id: Telecrystal1
         prob: 1
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -680,14 +680,14 @@
         prob: 0.5
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.4
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.2
       - id: Telecrystal5
         prob: 0.1
       - id: Telecrystal1
         prob: 0.5
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -710,10 +710,10 @@
         prob: 0.7
       - id: SpawnDungeonLootPartsEngi
         prob: 0.7
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: Telecrystal1
         prob: 0.7
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -734,10 +734,10 @@
         prob: 0.7
       - id: SpawnDungeonLootPartsEngi
         prob: 0.7
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: Telecrystal1
         prob: 1
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -758,10 +758,10 @@
         prob: 0.7
       - id: SpawnDungeonLootPartsEngi
         prob: 0.7
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: Telecrystal1
         prob: 0.5
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -780,10 +780,10 @@
         prob: 0.7
       - id: SpawnDungeonLootPartsEngi
         prob: 0.7
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: Telecrystal1
         prob: 0.6
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -832,14 +832,14 @@
         prob: 0.7
       - id: SpawnDungeonLootPartsEngi
         prob: 0.7
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.1
       - id: Telecrystal5
         prob: 0.1
       - id: Telecrystal1
         prob: 0.7
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -862,7 +862,7 @@
         prob: 0.7
       - id: SpawnDungeonLootPartsEngi
         prob: 0.7
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.1
       - id: SpawnLootTechDisksSyndicateT2
@@ -871,7 +871,7 @@
         prob: 0.2
       - id: Telecrystal1
         prob: 1
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -893,14 +893,14 @@
         prob: 0.7
       - id: SpawnDungeonLootPartsEngi
         prob: 0.7
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.1
       - id: Telecrystal5
         prob: 0.05
       - id: Telecrystal1
         prob: 0.5
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -921,14 +921,14 @@
         prob: 0.7
       - id: SpawnDungeonLootPartsEngi
         prob: 0.7
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.2
       - id: Telecrystal5
         prob: 0.05
       - id: Telecrystal1
         prob: 1
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -962,7 +962,7 @@
         prob: 0.7
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.3
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.2
       - id: Telecrystal5
@@ -971,7 +971,7 @@
         prob: 0.7
       - id: VendingMachineSyndieContrabandFlatpack
         prob: 0.05
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -999,7 +999,7 @@
         prob: 0.7
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.3
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.1
       - id: Telecrystal5
@@ -1008,7 +1008,7 @@
         prob: 1
       - id: VendingMachineSyndieContrabandFlatpack
         prob: 0.05
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -1035,7 +1035,7 @@
         prob: 0.7
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.3
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.1
       - id: Telecrystal5
@@ -1044,7 +1044,7 @@
         prob: 1
       - id: VendingMachineSyndieContrabandFlatpack
         prob: 0.05
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -1070,7 +1070,7 @@
         prob: 0.7
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.3
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.2
       - id: Telecrystal5
@@ -1079,7 +1079,7 @@
         prob: 0.7
       - id: VendingMachineSyndieContrabandFlatpack
         prob: 0.05
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -1112,14 +1112,14 @@
         prob: 0.7
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.3
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.2
       - id: Telecrystal5
         prob: 0.3
       - id: Telecrystal1
         prob: 1
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -1147,14 +1147,14 @@
         prob: 0.7
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.3
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.2
       - id: Telecrystal5
         prob: 0.2
       - id: Telecrystal1
         prob: 0.7
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -1181,14 +1181,14 @@
         prob: 0.7
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.3
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.1
       - id: Telecrystal5
         prob: 0.1
       - id: Telecrystal1
         prob: 1
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -1215,14 +1215,14 @@
         prob: 0.7
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.3
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.1
       - id: Telecrystal5
         prob: 0.2
       - id: Telecrystal1
         prob: 1
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -1251,14 +1251,14 @@
         prob: 0.7
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.3
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.2
       - id: Telecrystal5
         prob: 0.2
       - id: Telecrystal1
         prob: 0.7
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -1286,14 +1286,14 @@
         prob: 0.7
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.3
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT2
         prob: 0.05
       - id: Telecrystal5
         prob: 0.3
       - id: Telecrystal1
         prob: 1
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -1321,14 +1321,14 @@
         prob: 0.7
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.3
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT2
         prob: 0.05
       - id: Telecrystal5
         prob: 1
       - id: Telecrystal1
         prob: 0.2
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -1356,13 +1356,13 @@
         prob: 0.7
       - id: SpawnDungeonLootToolsAdvancedEngineering
         prob: 0.3
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
       - id: SpawnLootTechDisksSyndicateT1
         prob: 0.1
       - id: Telecrystal5
         prob: 0.1
       - id: Telecrystal1
         prob: 1
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg

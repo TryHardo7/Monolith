@@ -47,9 +47,9 @@
   - MobNonHumanHostileBase
   - MobHumanoidInvetorySimplified
   - MobRogueSiliconAISimpleRanged
-  - MobLaserReflect #SS220 exp balance, chrome chasis u know
+  - MobLaserReflect # Exodus-Exp-Balance, chrome chassis u know
   - NFMobRestrictionsSilicon
-  id: MobRogueSiliconBaseT1 #SS220 exp balance
+  id: MobRogueSiliconBaseT1 # Exodus-Exp-Balance
   components:
   - type: Damageable
     damageContainer: Silicon
@@ -70,7 +70,7 @@
   - type: MobThresholds
     thresholds:
       0: Alive
-      110: Dead #SS220 exp balance
+      110: Dead # Exodus-Exp-Balance
     stateAlertDict:
       Alive: BorgHealth
       Critical: BorgCrit
@@ -134,7 +134,7 @@
     baseWalkSpeed : 4.5
     baseSprintSpeed : 4.5
 
-#SS220 exp balance start
+# Exodus-Exp-Balance-start
 - type: entity
   name: hivemind unit
   abstract: true
@@ -178,11 +178,11 @@
     thresholds:
       0: Alive
       550: Dead
-#SS220 exp balance end
+# Exodus-Exp-Balance-end
 
 - type: entity
   parent:
-  - MobRogueSiliconBaseT1 #SS220 exp balance
+  - MobRogueSiliconBaseT1 # Exodus-Exp-Balance
   id: MobRogueSiliconScrapBase
   name: scrap unit
   description: These bots come in various shapes and forms, reflecting a wide range of designs and purposes. Many seem to be put together using locally available materials, leading to their disparate appearances. Notably, some units are equipped with thrusters and embedded laser weapons.
@@ -223,12 +223,12 @@
   - type: RotationVisuals
     defaultRotation: 90
     horizontalRotation: 90
-  #SS220 exp balance start
+  # Exodus-Exp-Balance-start
   #- type: MobThresholds
   #  thresholds:
   #    0: Alive
   #    85: Dead #Mono, health adjustments
-  #SS220 exp balance end
+  # Exodus-Exp-Balance-end
   - type: SlowOnDamage
     speedModifierThresholds:
       36: 0.7
@@ -254,7 +254,7 @@
 
 - type: entity
   parent:
-  - MobRogueSiliconBaseT1 #SS220 exp balance end
+  - MobRogueSiliconBaseT1 # Exodus-Exp-Balance
   id: MobRogueSiliconDroneBase
   name: drone
   description: Hacked and reprogrammed by a rogue AI departmental drones.
@@ -283,11 +283,11 @@
   - type: MobThresholds
     thresholds:
       0: Alive
-      75: Dead #SS220 exp balance 
+      75: Dead # Exodus-Exp-Balance 
   - type: SlowOnDamage
     speedModifierThresholds:
-      40: 0.7 #SS220 exp balance
-      55: 0.5 #SS220 exp balance
+      40: 0.7 # Exodus-Exp-Balance
+      55: 0.5 # Exodus-Exp-Balance
   - type: Stamina
     critThreshold: 600
   - type: Gun
@@ -719,7 +719,7 @@
 ## Tier 2
 - type: entity
   parent:
-  - MobRogueSiliconBaseT2 #SS220 exp balance
+  - MobRogueSiliconBaseT2 # Exodus-Exp-Balance
   - MobPassiveRegen
   - MobRogueSiliconAISimpleMelee
   id: MobRogueSiliconServo
@@ -757,7 +757,7 @@
 
 - type: entity
   parent:
-  - MobRogueSiliconBaseT2 #SS220 exp balance
+  - MobRogueSiliconBaseT2 # Exodus-Exp-Balance
   - MobPassiveRegen
   - MobRogueSiliconAISimpleMelee
   id: MobRogueSiliconHerder
@@ -871,7 +871,7 @@
 
 - type: entity
   parent:
-  - MobRogueSiliconBaseT2 #SS220 exp balance
+  - MobRogueSiliconBaseT2 # Exodus-Exp-Balance
   - MobPassiveRegen
   id: MobRogueSiliconCatcher
   name: catcher unit
@@ -934,7 +934,7 @@
 ## Tier 3
 - type: entity
   parent:
-  - MobRogueSiliconBaseT3 #SS220 exp balance
+  - MobRogueSiliconBaseT3 # Exodus-Exp-Balance
   - MobPassiveRegen
   - MobRogueSiliconAISimpleMelee
   id: MobRogueSiliconTesla
@@ -1076,11 +1076,11 @@
   - type: MobThresholds
     thresholds:
       0: Alive
-      450: Dead #SS220 exp balance
+      450: Dead # Exodus-Exp-Balance
   - type: SlowOnDamage
     speedModifierThresholds:
-      320: 0.7 #SS220 exp balance
-      400: 0.5 #SS220 exp balance
+      320: 0.7 # Exodus-Exp-Balance
+      400: 0.5 # Exodus-Exp-Balance
   - type: Stamina
     critThreshold: 600
   - type: HitscanBatteryAmmoProvider
@@ -1105,7 +1105,7 @@
 
 - type: entity
   parent:
-  - MobRogueSiliconBaseT4 #SS220 exp balance
+  - MobRogueSiliconBaseT4 # Exodus-Exp-Balance
   - MobPassiveRegen
   id: MobRogueSiliconBoss
   name: one star unit
@@ -1131,11 +1131,11 @@
   - type: MobThresholds
     thresholds:
       0: Alive
-      550: Dead #SS220 exp balance
+      550: Dead # Exodus-Exp-Balance
   - type: SlowOnDamage
     speedModifierThresholds:
-      350: 0.7 #SS220 exp balance
-      450: 0.5 #SS220 exp balance
+      350: 0.7 # Exodus-Exp-Balance
+      450: 0.5 # Exodus-Exp-Balance
   - type: Stamina
     critThreshold: 600
   - type: BasicEntityAmmoProvider

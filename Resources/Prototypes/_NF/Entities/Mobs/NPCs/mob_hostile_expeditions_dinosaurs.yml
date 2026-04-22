@@ -28,9 +28,9 @@
   - type: Butcherable
     spawned:
     - id: FoodMeatChicken
-      amount: 5 #SS220 exp balance
+      amount: 5 # Exodus-Exp-Balance
     - id: MaterialBones1
-      amount: 10 #SS220 exp balance
+      amount: 10 # Exodus-Exp-Balance
   - type: Fixtures
     fixtures:
       fix1:
@@ -57,14 +57,14 @@
           -1
   - type: MobThresholds # Base value to fall back to
     thresholds:
-      #SS220 exp balance start
+      # Exodus-Exp-Balance-start
       0: Alive
       150: Dead
   - type: SlowOnDamage
     speedModifierThresholds:
       110: 0.7
       130: 0.5
-      #SS220 exp balance end
+      # Exodus-Exp-Balance-end
   - type: FootstepModifier
     footstepSoundCollection:
       collection: FootstepThud
@@ -94,14 +94,14 @@
       scale: 0.6, 0.6
   - type: MobThresholds
     thresholds:
-    #SS220 exp balance start
+    # Exodus-Exp-Balance-start
       0: Alive
       150: Dead
   - type: SlowOnDamage
     speedModifierThresholds:
       120: 0.7
       140: 0.5
-      #SS220 exp balance end
+      # Exodus-Exp-Balance-end
   - type: DamageStateVisuals
     states:
       Alive:
@@ -141,14 +141,14 @@
       state: dilo
   - type: MobThresholds
     thresholds:
-    #SS220 exp balance start
+    # Exodus-Exp-Balance-start
       0: Alive
       150: Dead
   - type: SlowOnDamage
     speedModifierThresholds:
       120: 0.7
       140: 0.5
-      #SS220 exp balance end
+      # Exodus-Exp-Balance-end
   - type: DamageStateVisuals
     states:
       Alive:
@@ -186,14 +186,14 @@
       state: raptor
   - type: MobThresholds
     thresholds:
-    #SS220 exp balance start
+    # Exodus-Exp-Balance-start
       0: Alive
       180: Dead
   - type: SlowOnDamage
     speedModifierThresholds:
       108: 0.7
       164: 0.5
-    #SS220 exp balance end
+    # Exodus-Exp-Balance-end
   - type: DamageStateVisuals
     states:
       Alive:
@@ -230,14 +230,14 @@
       state: para
   - type: MobThresholds
     thresholds:
-    #SS220 exp balance start
+    # Exodus-Exp-Balance-start
       0: Alive
       250: Dead
   - type: SlowOnDamage
     speedModifierThresholds:
       160: 0.7
       220: 0.5
-    #SS220 exp balance end
+    # Exodus-Exp-Balance-end
   - type: DamageStateVisuals
     states:
       Alive:
@@ -274,14 +274,14 @@
       state: kentro
   - type: MobThresholds
     thresholds:
-    #SS220 exp balance start
+    # Exodus-Exp-Balance--start
       0: Alive
       250: Dead
   - type: SlowOnDamage
     speedModifierThresholds:
       190: 0.7
       220: 0.5
-    #SS220 exp balance end
+    # Exodus-Exp-Balance-end
   - type: DamageStateVisuals
     states:
       Alive:
@@ -318,14 +318,14 @@
       state: trike
   - type: MobThresholds
     thresholds:
-    #SS220 exp balance start
+    # Exodus-Exp-Balance-start
       0: Alive
       350: Dead
   - type: SlowOnDamage
     speedModifierThresholds:
       270: 0.7
       310: 0.5
-      #SS220 exp balance end
+      # Exodus-Exp-Balance-end
   - type: DamageStateVisuals
     states:
       Alive:
@@ -361,7 +361,7 @@
     - map: [ "enum.DamageStateVisualLayers.Base" ]
       state: anki
   - type: MobThresholds
-  #SS220 exp balance start
+  # Exodus-Exp-Balance-start
     thresholds:
       0: Alive
       350: Dead
@@ -369,7 +369,7 @@
     speedModifierThresholds:
       250: 0.7
       300: 0.5
-      #SS220 exp balance end
+      # Exodus-Exp-Balance-end
   - type: DamageStateVisuals
     states:
       Alive:
@@ -406,14 +406,14 @@
       state: spino
   - type: MobThresholds
     thresholds:
-      #SS220 exp balance start
+      # Exodus-Exp-Balance-start
       0: Alive
       450: Dead
   - type: SlowOnDamage
     speedModifierThresholds:
       310: 0.7
       380: 0.5
-      #SS220 exp balance end
+      # Exodus-Exp-Balance-end
   - type: DamageStateVisuals
     states:
       Alive:
@@ -494,7 +494,7 @@
       state: trex
   - type: MobThresholds
     thresholds:
-    #SS220 exp balance start
+    # Exodus-Exp-Balance-start
       0: Alive
       750: Dead
   - type: SlowOnDamage
@@ -504,10 +504,10 @@
   - type: Butcherable
     spawned:
     - id: FoodMeatChicken
-      amount: 20 #SS220 exp balance
+      amount: 20 # Exodus-Exp-Balance
     - id: MaterialBones1
-      amount: 50 #SS220 exp balance
-      #SS220 exp balance end
+      amount: 50 # Exodus-Exp-Balance
+      # Exodus-Exp-Balance-end
   - type: DamageStateVisuals
     states:
       Alive:

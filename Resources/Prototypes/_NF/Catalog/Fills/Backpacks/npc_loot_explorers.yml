@@ -39,14 +39,14 @@
       prob: 0.2
     - id: ClothingNeckIFFCyan
       prob: 0.1
-    #SS220 exp balance start
+    # Exodus-Exp-Balance-start
     - id: SpawnLootTechDisksExplorersT1
       prob: 0.1
     - id: SpawnDungeonLootOresFull
       prob: 0.5
     - id: SpawnDungeonLootOresSingle
       prob: 1
-    #SS220 exp balance end
+    # Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -77,14 +77,14 @@
       prob: 0.2
     - id: ClothingNeckIFFCyan
       prob: 0.1
-    #SS220 exp balance start
+    # Exodus-Exp-Balance-start
     - id: SpawnLootTechDisksExplorersT1
       prob: 0.1
     - id: SpawnDungeonLootOresFull
       prob: 0.5
     - id: SpawnDungeonLootOresSingle
       prob: 1
-    #SS220 exp balance end
+    # Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -125,7 +125,7 @@
       prob: 0.7
     - id: SpawnDungeonLootPartsEngi
       prob: 0.7
-    #SS220 exp balance start
+    # Exodus-Exp-Balance-start
     - id: SpawnLootTechDisksExplorersT1
       prob: 0.2
     - id: SpawnDungeonLootOresFull
@@ -136,7 +136,7 @@
       prob: 1
     - id: SpawnDungeonLootOresSingle
       prob: 0.7
-    #SS220 exp balance end
+    # Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -177,7 +177,7 @@
       prob: 0.7
     - id: SpawnDungeonLootPartsEngi
       prob: 0.7
-    #SS220 exp balance start
+    # Exodus-Exp-Balance-start
     - id: SpawnLootTechDisksExplorersT1
       prob: 0.2
     - id: SpawnDungeonLootOresFull
@@ -188,7 +188,7 @@
       prob: 1
     - id: SpawnDungeonLootOresSingle
       prob: 0.7
-    #SS220 exp balance end
+    # Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -236,7 +236,7 @@
       prob: 0.7
     - id: SpawnDungeonLootToolsAdvancedEngineering
       prob: 0.3
-    #SS220 exp balance start
+    # Exodus-Exp-Balance-start
     - id: SpawnLootTechDisksExplorersT1
       prob: 0.3
     - id: SpawnDungeonLootOresFull
@@ -249,7 +249,7 @@
       prob: 1    
     - id: LaserDrillFlatpack
       prob: 0.1
-    #SS220 exp balance end
+    # Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -298,7 +298,7 @@
       prob: 0.7
     - id: SpawnDungeonLootToolsAdvancedEngineering
       prob: 0.3
-    #SS220 exp balance start
+    # Exodus-Exp-Balance-start
     - id: SpawnLootTechDisksExplorersT1
       prob: 0.3
     - id: SpawnDungeonLootOresFull
@@ -311,7 +311,7 @@
       prob: 1
     - id: LaserDrillFlatpack
       prob: 0.1
-    #SS220 exp balance end
+    # Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
 
@@ -366,7 +366,7 @@
       prob: 0.5
     - id: SpawnDungeonLootToolsAdvancedEngineering
       prob: 0.4
-    #SS220 exp balance start
+    # Exodus-Exp-Balance-start
     - id: SpawnLootTechDisksExplorersT1
       prob: 0.3
     - id: SpawnDungeonLootOresFull
@@ -379,6 +379,6 @@
     - id: SpawnDungeonLootOresSingle
       amount: 5
       prob: 1
-    #SS220 exp balance end
+    # Exodus-Exp-Balance-end
     sound:
       path: /Audio/Items/jumpsuit_equip.ogg
