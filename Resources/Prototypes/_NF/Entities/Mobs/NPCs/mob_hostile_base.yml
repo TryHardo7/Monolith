@@ -79,7 +79,7 @@
   abstract: true
   components:
   - type: Reflect
-    reflectProb: 0.6 #SS220 exp balance
+    reflectProb: 0.6 # Exodus-Exp-Balance
     reflects:
       - Energy
 

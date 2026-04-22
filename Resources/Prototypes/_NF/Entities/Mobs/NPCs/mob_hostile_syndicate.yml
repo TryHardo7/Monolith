@@ -9,7 +9,7 @@
   - NFMobRestrictions
   id: MobSyndicateNavalBase
   components:
-  #SS220 exp balance start
+  # Exodus-Exp-Balance-start
   - type: MobThresholds
     thresholds:
       0: Alive
@@ -19,7 +19,7 @@
     speedModifierThresholds:
       110: 0.7
       130: 0.5
-  #SS220 exp balance end
+  # Exodus-Exp-Balance-end
   - type: Body
     prototype: HumanSyntheticOrgans # New set of synthetic organs grants faster removal of toxins from bloodstream
     requiredLegs: 2
@@ -531,13 +531,13 @@
   name: syndicate commander # Mega Fauna for Dungeons
   parent:
   - MobSyndicateNavalBase
-  - MobLaserReflect #SS220 exp balance
+  - MobLaserReflect # Exodus-Exp-Balance
   - NFMobBossRestrictions
   id: MobSyndicateNavalCommanderA
   description: A regional commander of Syndicate operations, this officer holds ultimate local command and responsibility. Armed with an assault rifle and heavily armored.
   categories: [ HideSpawnMenu ]
   components:
-    #SS220 exp balance start
+    # Exodus-Exp-Balance-start
     - type: MobThresholds
       thresholds:
         0: Alive
@@ -547,7 +547,7 @@
       speedModifierThresholds:
         210: 0.7
         250: 0.5
-    #SS220 exp balance end
+    # Exodus-Exp-Balance-end
     - type: Loadout
       prototypes:
         - SyndicateNavalCommanderGearA
