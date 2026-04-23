@@ -122,7 +122,7 @@
         Structural: 250
   - type: ExplodeOnTrigger
   - type: Explosive
-    explosionType: Minibomb #Exodus-Mech-Fix
+    explosionType: Minibomb # Exodus-Mech-Fix
     maxIntensity: 15
     intensitySlope: 20
     totalIntensity: 15
@@ -169,7 +169,7 @@
     energy: 2
   - type: ExplodeOnTrigger
   - type: Explosive
-    explosionType: Minibomb #Exodus-Mech-Fix
+    explosionType: Minibomb # Exodus-Mech-Fix
     totalIntensity: 200
     intensitySlope: 4
     maxIntensity: 100
@@ -342,7 +342,7 @@
     color: "#FF0040"
   - type: ExplodeOnTrigger
   - type: Explosive
-    explosionType: Minibomb #Exodus-Mech-Fix
+    explosionType: Minibomb # Exodus-Mech-Fix
     totalIntensity: 25
     intensitySlope: 12
     maxIntensity: 15

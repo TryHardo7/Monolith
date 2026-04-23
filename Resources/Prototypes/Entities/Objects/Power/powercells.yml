@@ -366,7 +366,7 @@
     autoRechargePause: true
     autoRechargePauseTime: 30 # Prevent continuous fire, but not a huge delay
     autoRecharge: true
-    autoRechargeRate: 12 # 10 minutes to fully recharge, same recharge rate as micro-reactor #Exodus-Mech-Fix
+    autoRechargeRate: 12 # 10 minutes to fully recharge, same recharge rate as micro-reactor # Exodus-Mech-Fix
 
 - type: entity
   id: PowerCageHigh
