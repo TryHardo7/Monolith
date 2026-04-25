@@ -1,6 +1,6 @@
 ent-MobVandalizer = { "" }
     .desc = { "" }
-ent-MobPunkBaseT1 = панк-гангстер
+ent-MobPunkBaseT1 = панк
     .desc = "Индивиды, склонные к криминалу", как служба безопсности НТ описывает их в документах. Вооружены чем попало, начиная от заточек и мачете заканчивая пистолетами и дробовиками. Готовьтесь к жаркому приёму.
 ent-MobPunkBaseT2 = { ent-MobPunkBaseT1 }
     .desc = { ent-MobPunkBaseT1.desc }
@@ -20,7 +20,7 @@ ent-MobPunkGangerMeleeT3 = { ent-MobPunkBaseT1 }
     .desc = { ent-MobPunkBaseT1.desc }
 ent-MobPunkGangerSmg = { ent-MobPunkBaseT1 }
     .desc = { ent-MobPunkBaseT1.desc }
-ent-MobPunkGangerLeader = лидер банды гангстеров
+ent-MobPunkGangerLeader = лидер банды панков
     .desc = Требуется впечатляющая сила, чтобы вести за собой банду уличных отбросов. Носит пистолет-пулемёт и броню, снятую с попавшегося под руку охранника. Обычно обдолбан и пьян.
 ent-PartyNadeGun = Тусовый гранатомёт
     .desc = Нужен чтобы стрелять тусовыми гранатами.
