@@ -28,7 +28,7 @@
   - type: Butcherable
     spawned:
     - id: FoodMeatChicken
-      amount: 5 # Exodus-Exp-Balance
+      amount: 1
     - id: MaterialBones1
       amount: 10 # Exodus-Exp-Balance
   - type: Fixtures
@@ -504,7 +504,7 @@
   - type: Butcherable
     spawned:
     - id: FoodMeatChicken
-      amount: 20 # Exodus-Exp-Balance
+      amount: 3 # Exodus-Exp-Balance
     - id: MaterialBones1
       amount: 50 # Exodus-Exp-Balance
       # Exodus-Exp-Balance-end
