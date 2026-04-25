@@ -13,21 +13,21 @@ ent-MobFleshGolemOldExpeditions = { ent-MobFleshGolemExpeditions }
 ent-MobFleshAssimilatedMiner = { ent-BaseMobFleshExpeditions }
     .desc = Несчастный шахтер, заразившийся при контакте с аномальной плотью и постепенно ассимилированный.
 ent-MobFleshClampExpeditions = { ent-BaseMobFleshExpeditions }
-    .desc = A flying flesh monster that can shoot spikes or toothy creatures that can latch on.
+    .desc = Летающее чудовище из плоти, метает зубастых существ, которые цепляются за добычу и пожирают её.
 ent-MobFleshClampOldExpeditions = { ent-MobFleshClampExpeditions }
     .desc = { ent-MobFleshClampExpeditions.desc }
 ent-MobFleshLoverExpeditions = { ent-BaseMobFleshExpeditions }
     .desc = Лёгкиое тело делает его хрупким, но способным к полёту.
 ent-MobHorrorExpeditions = аномальное мясное чудовище
     .desc = Более крепкий и выносливый, чем большинство аномальных плотоядных монстров. Имеет острые костные выступы и высокоразвитую мускулатуру.
-ent-BoneSpikeGun = костный шип
+ent-BoneSpikeGun = костяной шип
     .desc = Выпускает короткий залп костяных шипов.
 ent-ActionBoneSpike = [color=yellow]Костяной Шип[/color]
     .desc = Выпустите короткий залп костяных шипов, пропитанных токсинами. [color=yellow]5 секунд перезарядка.[/color]
 ent-MobMawExpeditions = аномальная мясная пасть
-    .desc = Неподвижные, прогрызающие плоть существа, которые набрасываются на жертв. Прикрепляются к ним, пока их не убьют или не стряхнут. Не суйте в них пальцы.
-ent-BaseMobFleshExpeditionsNewborn = новорождённый аномальной плоти
-    .desc = Это новорожденное чудовище покрыто самыми разными гадкими жидкостями; его движения вялые, но размеренные, его конечности, хоть и слабые, тем не менее, смертельно опасны.
+    .desc = Неподвижные существа, набрасывающиеся на жертву и вгрызающиеся в её плоть намертво, откреплясь от неё уже после смерти. Не смейте сувать в них пальцы.
+ent-BaseMobFleshExpeditionsNewborn = новорождённая аномальной плоть
+    .desc = Это новорожденное чудовище покрыто самыми разными гадкими жидкостями, а его движения хоть и вялые, но размеренные,  а его конечности хоть и слабыы, тем не менее, смертельно опасны.
 ent-MobFleshJaredExpeditionsNewborn = { ent-BaseMobFleshExpeditionsNewborn }
     .desc = { ent-BaseMobFleshExpeditionsNewborn.desc }
 ent-MobFleshJaredOldExpeditionsNewborn = { ent-BaseMobFleshExpeditionsNewborn }
